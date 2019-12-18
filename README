@@ -1,0 +1,4 @@
+This is the Matlab code for a microstructure generator of TBDC materials. 
+IT considers out-of-plane orientations (tow waviness) and volume fraction variations
+Stiffness preditions of the generated specimen are an output of the generator.
+Plots of the out-of-plane angle distribution and volume fraction variations are automatically made.
