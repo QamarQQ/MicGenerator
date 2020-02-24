@@ -42,7 +42,7 @@ set(gcf,'units','centimeters','position',[x0,y0,width,height])
 set(0,'DefaultTextInterpreter', 'latex')
 set(gca,'TickLabelInterpreter', 'tex');
 plot(index, pdf(myFit, index))
-xlabel '$\phi~^\circ$'
+xlabel '$V^{\mathrm{f}}$'
 ylabel 'Pr'
 set(gca,...
     'Units','normalized',...
