@@ -302,7 +302,7 @@ MGen.Leffective = Leffective;
 MGen.centerThickness = centerThickness;
 MGen.RealWaviness = RealWaviness;
 MGen.angle = angle;
-MGen.VFmap = VFmap
+MGen.VFmap = VFmap;
 
 
 
